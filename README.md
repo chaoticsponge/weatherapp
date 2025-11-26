@@ -4,7 +4,7 @@ Learning more python lol
 
 ## Setup
 
-Create a file called `bash api_config.py` with contents:
+Create a file called `api_config.py` with contents:
 
 ```bash
 API_KEY = ""
