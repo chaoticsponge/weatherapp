@@ -13,7 +13,6 @@ except ImportError:
 API_URL = "https://api.weatherapi.com/v1/current.json"
 
 class RoundedCard(tk.Canvas):
-    """A simple rounded card with a shadow and an inner frame for content."""
 
     def __init__(
         self,
@@ -82,7 +81,6 @@ class RoundedCard(tk.Canvas):
 
 
 class RoundedEntry(tk.Frame):
-    """A rounded input field with a subtle shadow."""
 
     def __init__(
         self,
