@@ -1,10 +1,15 @@
-##Unnecessarily fancy Weather app
+## Unnecessarily fancy Weather app
 
-Get an api key from https://weatherapi.com/
-Learning more python. Create a file called api_config.py
+Learning more python lol
+
+## Setup
+
+Create a file called `bash api_config.py` with contents:
 
 ```bash
 API_KEY = ""
 ```
 
-Store your key there. Should work.
+Get an api key from https://weatherapi.com/
+
+Store your key there. WILL work.
