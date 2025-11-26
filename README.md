@@ -1,4 +1,4 @@
-## Unnecessarily fancy Weather app
+## Somewhat fancy Weather app
 
 Learning more python lol
 
